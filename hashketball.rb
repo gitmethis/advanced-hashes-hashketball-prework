@@ -23,7 +23,7 @@ end
 
 
 
-
+binding.pry
 
 
 
